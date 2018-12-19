@@ -1,0 +1,1 @@
+import './day2_panel/**'
